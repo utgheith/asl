@@ -1,0 +1,8 @@
+/std_out_err/
+/arm
+/generated_asl/
+/workspace/
+/.idea/
+/.bsp/
+target/
+
